@@ -1,6 +1,6 @@
 <?php
 
-class HelloWorldTest extends \PHPUnit_Framework_TestCase
+class HelloWorldTest extends \PHPUnit\Framework\TestCase//PHPUnit_Framework_TestCase
 {
     /**
      * @var PDO
